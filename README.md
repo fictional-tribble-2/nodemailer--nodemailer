@@ -5,7 +5,7 @@
 
 Send e-mails from Node.js – easy as cake! 🍰✉️
 
-[![NPM](https://nodei.co/npm/nodemailer.png?downloads=true&downloadRank=true&stars=true)](https://nodemailer.com/about/)
+[![NPM](https://nodei.co/npm/nodemailer.png?downloads=true&downloadRank=true&stars=true)](https://nodemailer.com/about/) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/nodemailer--nodemailer.svg)](https://www.staging.guardrails.io)
 
 See [nodemailer.com](https://nodemailer.com/) for documentation and terms.
 
